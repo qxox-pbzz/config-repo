@@ -1,5 +1,2 @@
-spring:
-  config:
-    import: "configserver:"
 service:
   name: 202236950 이지현
